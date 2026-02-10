@@ -19,7 +19,7 @@ Calibration: Allows for the individual calibration of each of the 32 noise gener
 Error Detection: Real-time monitoring to detect if a specific generator becomes "static" (stuck at 0 or 1) or fails due to hardware drift.
 
 3. System Components & File Paths
-Component	          Path / Details
+Component           Path / Details
 Main Logic          /core/Src/main.c
 Includes            /core/Inc/
 Hardware Concept    /assets/images/HW_concept.png
